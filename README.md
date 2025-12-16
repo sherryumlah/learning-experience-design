@@ -5,3 +5,4 @@ Resources for instructional design and online learning development
 - [SAM + Backward Design Hybrid Model](sam-backward-isd.md)
 - [Learning Strategies](learning-strategies.md)
 - [Cognitive Load Theory](memory.md)
+- [Gagne's Nine Events and the Explicit Model](explicitmodel.md)
