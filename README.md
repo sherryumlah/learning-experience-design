@@ -6,3 +6,4 @@ Resources for instructional design and online learning development
 - [Learning Strategies](learning-strategies.md)
 - [Cognitive Load Theory](memory.md)
 - [Gagne's Nine Events and the Explicit Model](explicitmodel.md)
+- [Merrill's First Principles of Instruction](merrill.md)
